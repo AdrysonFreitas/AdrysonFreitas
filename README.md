@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Adryson! 👋
 
-I'm Adryson Freitas, a passionate front-end developer and designer (web, graphic and UI/UX) from Brazil. I graduated in Computer Science in 2023 with a final paper themed around front-end development.
+I'm **Adryson Freitas**, a passionate front-end developer and designer (web, graphic and UI/UX) from Brazil. I graduated in Computer Science in 2023 with a final paper themed around front-end development. I speak advanced english, so we can chat!
 
 I'm a really creative person and I love to do create stuff, even more when it is something visual. I also like to learn new things, I'm always learning.
 
@@ -28,6 +28,9 @@ Welcome to my GitHub profile!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 #### Learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
