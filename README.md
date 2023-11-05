@@ -67,8 +67,6 @@ Feel free to explore my repositories to see more of my work!
 
 ## Connect with Me
 
-You can connect with me on various platforms:
-
 <div>
 <a href="https://www.linkedin.com/in/adryson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.behance.net/adryson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>  
@@ -76,4 +74,5 @@ You can connect with me on various platforms:
 <a href = "mailto:contato@adrysonfreitasphb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
+<hr>
 Let's collaborate and create something amazing together! 😄
