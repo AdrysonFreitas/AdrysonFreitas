@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AdrysonFreitas/AdrysonFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,9 +69,11 @@ Feel free to explore my repositories to see more of my work!
 
 You can connect with me on various platforms:
 
-- ![GitHub](https://github.com/AdrysonFreitas)
-- ![LinkedIn](https://www.linkedin.com/in/Adryson)
-- ![Behance](https://www.behance.net/adryson)
-- ![Email](adrysonfreitasphb@gmail.com)
+<div>
+<a href="https://www.linkedin.com/in/adryson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.behance.net/adryson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/meiamadryson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@adrysonfreitasphb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
 
 Let's collaborate and create something amazing together! 😄
