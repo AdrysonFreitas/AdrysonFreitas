@@ -74,5 +74,5 @@ Feel free to explore my repositories to see more of my work!
 <a href = "mailto:contato@adrysonfreitasphb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<hr>
+<br>
 Let's collaborate and create something amazing together! 😄
